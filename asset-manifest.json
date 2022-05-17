@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kParsonsDesign/formik-form/static/css/main.073c9b0a.css",
-    "main.js": "/kParsonsDesign/formik-form/static/js/main.7a5eba23.js",
-    "static/js/787.2404c3bf.chunk.js": "/kParsonsDesign/formik-form/static/js/787.2404c3bf.chunk.js",
-    "index.html": "/kParsonsDesign/formik-form/index.html",
-    "main.073c9b0a.css.map": "/kParsonsDesign/formik-form/static/css/main.073c9b0a.css.map",
-    "main.7a5eba23.js.map": "/kParsonsDesign/formik-form/static/js/main.7a5eba23.js.map",
-    "787.2404c3bf.chunk.js.map": "/kParsonsDesign/formik-form/static/js/787.2404c3bf.chunk.js.map"
+    "main.css": "/formik-form/static/css/main.073c9b0a.css",
+    "main.js": "/formik-form/static/js/main.54c1e746.js",
+    "static/js/787.2404c3bf.chunk.js": "/formik-form/static/js/787.2404c3bf.chunk.js",
+    "index.html": "/formik-form/index.html",
+    "main.073c9b0a.css.map": "/formik-form/static/css/main.073c9b0a.css.map",
+    "main.54c1e746.js.map": "/formik-form/static/js/main.54c1e746.js.map",
+    "787.2404c3bf.chunk.js.map": "/formik-form/static/js/787.2404c3bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7a5eba23.js"
+    "static/js/main.54c1e746.js"
   ]
 }
