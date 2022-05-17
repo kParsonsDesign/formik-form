@@ -27,3 +27,7 @@ Your form should implement the following specific details:
 - Used <code>create-react-app</code>
 - Using React 18 (refactor from class example of React 17?)
 - Added formik with npm install formik --save
+
+
+## How to Run
+View the simple form live at: [https://kparsonsdesign.github.io/formik-form/](https://kparsonsdesign.github.io/formik-form/)
